@@ -9,4 +9,4 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-This is an academic decision-support prototype. It does not replace veterinary examination or confirmatory testing.
+
